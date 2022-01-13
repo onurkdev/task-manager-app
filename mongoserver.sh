@@ -1,0 +1,1 @@
+mongod --dbpath=/Users/onurkurtulmus/mongodb-data
